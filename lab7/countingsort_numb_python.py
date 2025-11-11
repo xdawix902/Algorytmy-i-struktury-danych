@@ -1,4 +1,4 @@
-def countingSort(array):
+ def countingSort(array):
     # Długość tablicy wejściowej
     size = len(array)
 

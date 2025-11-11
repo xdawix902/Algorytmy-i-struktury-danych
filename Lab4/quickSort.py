@@ -1,5 +1,5 @@
 def partition(arr, low, high):
-    i = (low-1);
+    i = (low-1)
     pivot = arr[high]
     for j in range(low, high):
         if arr[j] <= pivot:
