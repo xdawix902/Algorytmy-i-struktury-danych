@@ -17,5 +17,3 @@ def shellSort(arr):
 arr = [5,4,1,20,30,2,7,8]
 shellSort(arr)
 print(arr)
-
-
