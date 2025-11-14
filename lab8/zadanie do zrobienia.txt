@@ -1,0 +1,7 @@
+Napisz program, który:
+	1.Wczytuje maksymalnie 10 liczby naturalnych z klawiatury, które budują BST (drzewo poszukiwań binarnych). Wciśnięcie 0 kończy wpisywanie.
+	2.Sprawdza czy podana liczba występuje w drzewie
+	3.Po zakończeniu budowy drzewa przegląda je metodami vlr, lvr oraz lrv. 
+
+
+jest trochę w pliku proba ale zrób to od nowa
